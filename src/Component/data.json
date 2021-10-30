@@ -1,0 +1,29 @@
+[
+    {
+    "coin_id": 8,
+    "coin_name": "Polygon",
+    "coin_ticker": "MATIC",
+    "coin_logo_url":"https://cryptocompare.com/media/37746047/matic.png",
+    "weightage": 11.0,
+    "basket": 4,
+    "coin": 3
+    },
+    {
+    "coin_id": 7,
+    "coin_name": "Cardano",
+    "coin_ticker": "ADA",
+    "coin_logo_url":"https://cryptocompare.com/media/37746235/ada.png",
+    "weightage": 3.0,
+    "basket": 4,
+    "coin": 4
+    },
+    {
+    "coin_id": 4,
+    "coin_name": "Cardano",
+    "coin_ticker": "ADA",
+    "coin_logo_url":"https://cryptocompare.com/media/37746235/ada.png",  
+    "weightage": 100.0,
+    "basket": 3,
+    "coin": 4
+    }
+]
